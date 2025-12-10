@@ -2,6 +2,8 @@
 
 ![AyuGram](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuGram.png) ![AyuChan](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuChan.png) <img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.png" alt="Gentoo BTW" width="128"/>
 
+[Русский](README.md)
+
 **Unofficial AyuGram Desktop ebuild for Gentoo Linux**  
 Up-to-date dev branch
 
