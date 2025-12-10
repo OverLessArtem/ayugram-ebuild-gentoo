@@ -21,5 +21,5 @@ echo "net-im/ayugram-desktop ~amd64" | sudo tee /etc/portage/package.accept_keyw
 sudo emerge --ask --verbose net-im/ayugram-desktop
 ```
 # ВАЖНО — КОМПИЛЯТОР
-НЕ используйте Clang (даже с ThinLTO) — падает на этапе линковки
-Работает только на GCC.
+НЕ используйте Clang (даже с ThinLTO) — падает на этапе линковки.
+Работает только на GCC
