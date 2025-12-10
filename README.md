@@ -1,6 +1,6 @@
 # ayugram-ebuild-gentoo
 
-![AyuGram](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuGram.png) ![AyuChan](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuChan.png) ![Gentoo BTW](https://www.gentoo.org/assets/img/logo/gentoo-signet.png){ width=128px }
+![AyuGram](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuGram.png) ![AyuChan](https://github.com/AyuGram/AyuGramDesktop/raw/dev/.github/AyuChan.png) <img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.png" alt="Gentoo BTW" width="128" align="right"/>
 
 **Неофициальный ebuild AyuGram Desktop для Gentoo Linux**  
 Актуальный dev-бранч
