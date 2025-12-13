@@ -14,9 +14,9 @@ Up-to-date dev branch
 ```bash
 emerge --ask app-eselect/eselect-repository
 
-sudo eselect repository add ayugram-unoffical git https://github.com/OverLessArtem/ayugram-ebuild-gentoo.git
+sudo eselect repository add ayugram git https://github.com/OverLessArtem/ayugram-ebuild-gentoo.git
 
-sudo emaint sync --repo ayugram-unoffical
+sudo emaint sync --repo ayugram
 
 echo "net-im/ayugram-desktop ~amd64" | sudo tee /etc/portage/package.accept_keywords/ayugram-desktop
 
