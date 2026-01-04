@@ -11,11 +11,11 @@ DESCRIPTION="Desktop Telegram client with good customization and Ghost mode."
 HOMEPAGE="https://github.com/AyuGram/AyuGramDesktop"
 
 EGIT_REPO_URI="https://github.com/AyuGram/AyuGramDesktop.git"
-EGIT_BRANCH="dev"
+EGIT_TAG="v${PV}"
 
 LICENSE="BSD GPL-3-with-openssl-exception LGPL-2+"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~arm64"
 IUSE="dbus enchant +fonts +libdispatch screencast wayland webkit +X"
 
 CDEPEND="
