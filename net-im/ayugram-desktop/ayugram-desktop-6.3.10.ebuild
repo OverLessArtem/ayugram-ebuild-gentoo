@@ -74,7 +74,9 @@ BDEPEND="
 	wayland? ( dev-util/wayland-scanner )
 "
 
-PATCHES=()
+PATCHES=(
+	"${FILESDIR}"/tdesktop-6.3.2-loosen-minizip.patch
+)
 
 src_unpack() {
 	git-r3_src_unpack
