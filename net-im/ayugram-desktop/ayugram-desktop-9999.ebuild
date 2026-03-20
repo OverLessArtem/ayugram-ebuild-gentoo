@@ -75,7 +75,6 @@ BDEPEND="
 "
 
 PATCHES=(
-	"${FILESDIR}"/tdesktop-6.3.2-loosen-minizip.patch
 	"${FILESDIR}"/tdesktop-6.5.1-zlib-1.3.2.patch
 )
 
